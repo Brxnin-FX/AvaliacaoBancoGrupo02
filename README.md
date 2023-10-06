@@ -1,9 +1,13 @@
 # AvaliacaoBancoGrupo02
 Ao começarmos o projeto dividimos as tarefas para cada integrante do grupo
-Bruno ficou com a parte de realizar os Creates/n
+
+Bruno ficou com a parte de realizar os Creates
+
 Felipe ficou com a parte de realizar o Diagrama
+
 Kaique ficou com a parte de escrever os Inserts
-Miguel ficou com a parte de realizar as Consultas
+
+Miguel ficou com a parte de realizar as Consultas   
 
 A sigla da disciplina como seria algo pequedo decidimos colocar um limite de 5 caraceres, já o nome não vimos necessidade de setar algo pequeno então deixamos 45 caracteres, a ementa vimos que poderia ser algo grande, sabendo disso decidimos setar o limite para 100 caracteres
 
