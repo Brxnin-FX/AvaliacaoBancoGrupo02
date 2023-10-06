@@ -1,3 +1,7 @@
+-- Eu pensei na forma que li, já estava bem explicado o porque do uso das siglas,
+-- usei alguns exemplos dos projetos anteriores do Git Hub,
+-- fiz totalmente a mão, porém olhando para o exemplo para não errar a forma de escrever o código.
+
 INSERT INTO disciplina (sigla_disciplina, nome, ementa)
 VALUES 
 ('PWBE', 'Programação Web para Back-End. ', 'Tal disciplina aborda conceitos
