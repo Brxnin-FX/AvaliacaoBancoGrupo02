@@ -1,6 +1,6 @@
 # AvaliacaoBancoGrupo02
 Ao começarmos o projeto dividimos as tarefas para cada integrante do grupo
-Bruno ficou com a parte de realizar os Creates
+Bruno ficou com a parte de realizar os Creates/n
 Felipe ficou com a parte de realizar o Diagrama
 Kaique ficou com a parte de escrever os Inserts
 Miguel ficou com a parte de realizar as Consultas
